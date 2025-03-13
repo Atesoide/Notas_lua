@@ -1,6 +1,7 @@
 ----------Sintaxis de Variables-----------
 --Variable = Dato
 -- Var1, Var2, Var3 = Dato1, Dato2, Dato3 [En este caso los datos de las variables se asignan de manera respectiva]
+--modificacion (ignmorar linea)
 
 --Para declarar Variables no es necesario asignar el tipo, simplemente el dato
 NumEntero = 2
